@@ -3,10 +3,10 @@
 Reproducible code for the feasibility simulation in the BBA thesis
 **"Perkit"** (course MNGT 323), by Michalis Kostopoulos.
 
-> **Authorship and AI assistance.** The experiment in this repository —
+> **Authorship and AI assistance.** The experiment in this repository,
 > the research question, the model design, the parameter choices and their
 > justification, the validation strategy, and the interpretation of the
-> results — was conceived, directed, and is owned by the author. Parts of
+> results, was conceived, directed, and is owned by the author. Parts of
 > the code plate (boilerplate, plotting scaffolding, and refactoring) were
 > drafted with the assistance of Claude Code (Anthropic). Every generated
 > line was specified, reviewed, audited, and tested by the author, who
